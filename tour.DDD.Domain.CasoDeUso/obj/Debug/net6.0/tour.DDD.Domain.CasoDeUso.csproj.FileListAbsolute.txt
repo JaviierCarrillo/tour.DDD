@@ -1,0 +1,15 @@
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\bin\Debug\net6.0\tour.DDD.Domain.CasoDeUso.deps.json
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\bin\Debug\net6.0\tour.DDD.Domain.CasoDeUso.dll
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\bin\Debug\net6.0\tour.DDD.Domain.CasoDeUso.pdb
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\bin\Debug\net6.0\tour.DDD.Domain.dll
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\bin\Debug\net6.0\tour.DDD.Domain.pdb
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.csproj.CopyComplete
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.dll
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\refint\tour.DDD.Domain.CasoDeUso.dll
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\tour.DDD.Domain.CasoDeUso.pdb
+C:\Users\javie\OneDrive\Documentos\Sofka\DDD\tour.DDD\tour.DDD.Domain.CasoDeUso\obj\Debug\net6.0\ref\tour.DDD.Domain.CasoDeUso.dll
